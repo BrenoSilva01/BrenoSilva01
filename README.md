@@ -1,5 +1,5 @@
 ## Hello, i'm Breno Silva
-- 🔭 I´m currently graduating from UNIFEI in Computer Engineering
+- 🔭 I´m currently graduating from PUC MInas in Computer Science.
 - 🥶 I’m currently learning: C; C++; JavaScript; HTML & CSS.
 - 🎮 Fun fact: Games and Animes
 - 📫 How to reach me: breno1543custodio@gmail.com
